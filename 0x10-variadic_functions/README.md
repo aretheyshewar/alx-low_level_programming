@@ -1,1 +1,1 @@
-myvraidicfunction
+variad
